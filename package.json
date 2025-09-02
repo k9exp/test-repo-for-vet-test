@@ -1,0 +1,24 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/k9exp/test-repo-for-vet-test#readme",
+  "bugs": {
+    "url": "https://github.com/k9exp/test-repo-for-vet-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k9exp/test-repo-for-vet-test.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+	  "@clerk/nextjs": "6.21.0",
+	  "ccnetviz": "1.0.19"
+  }
+}
